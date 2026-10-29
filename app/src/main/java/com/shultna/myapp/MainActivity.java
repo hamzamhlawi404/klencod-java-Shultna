@@ -1,4 +1,5 @@
 // لا تنسَ إبقاء سطر الـ package الخاص بمشروعك هنا في الأعلى
+package com.example.shultna;
 
 import android.app.Activity;
 import android.app.AlertDialog;
